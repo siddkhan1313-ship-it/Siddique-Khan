@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: 3D Procedural Terrarium",
+  "description": "An interactive 3D glass terrarium with procedural flora, dynamic day/night lighting cycles, customizable weather phenomena, and soothing procedural ambient soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
